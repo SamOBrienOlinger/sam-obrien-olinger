@@ -15,6 +15,8 @@ An early résumé and profile workspace with a JavaScript entry file and configu
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Clone the workspace to inspect or develop it:
 
 ```bash
